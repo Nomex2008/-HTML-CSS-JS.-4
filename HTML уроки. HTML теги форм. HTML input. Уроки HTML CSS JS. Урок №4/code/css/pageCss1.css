@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+}
+
+.textarea1 {
+    width: 200px;
+    height: 200px;
+}
+
+.optionRed {
+    background-color: red;
+}
+.optionYellow {
+    background-color: yellow;
+}
+.optionBlue {
+    background-color: blue;
+}
+
+button {
+    margin-top: 10px;}
+
+.reset {
+    margin-top: 10px;
+}
